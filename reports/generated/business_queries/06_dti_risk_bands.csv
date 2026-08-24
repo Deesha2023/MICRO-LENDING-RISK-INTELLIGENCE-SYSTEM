@@ -1,0 +1,5 @@
+dti_band,loans,bad_loan_rate_pct
+Low (<10),14239,26.78
+Medium (10-19.99),33280,31.14
+High (20-29.99),26067,37.21
+Very High (30+),9787,40.57

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+models/*.joblib
+models/*.pkl
+reports/generated/
+logs/
+*.log
+.DS_Store

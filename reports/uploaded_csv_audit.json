@@ -1,0 +1,23 @@
+{
+  "uploaded_csv": "loan_sample (1)(1).csv",
+  "csv_rows": 150000,
+  "csv_columns": 143,
+  "reported_mysql_rows": 83000,
+  "note": "User reported that only 83,000 of 150,000 CSV records imported into MySQL. Project uses MySQL table as runtime source.",
+  "target_column": "loan_condition",
+  "target_values": {
+    "good loan": 100000,
+    "bad loan": 50000
+  },
+  "loan_status_top": {
+    "Fully Paid": 53157,
+    "Current": 46727,
+    "Charged Off": 44079,
+    "Late (31-120 days)": 3635,
+    "In Grace Period": 1505,
+    "Late (16-30 days)": 658,
+    "Does not meet the credit policy. Status:Charged Off": 119,
+    "Does not meet the credit policy. Status:Fully Paid": 116,
+    "Default": 4
+  }
+}

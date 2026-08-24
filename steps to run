@@ -1,0 +1,11 @@
+crate .env file
+pip install -r requirements.txt
+python3 -m pip install --upgrade pip
+python -m src.train_model
+
+streamlit run app.py
+
+python3 -m src.eda
+
+
+python3 -m src.business_queries

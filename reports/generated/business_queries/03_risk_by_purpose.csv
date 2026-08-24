@@ -1,0 +1,15 @@
+purpose,loans,total_amount,bad_loan_rate_pct
+educational,23,165050.0,52.17
+small_business,1034,17576275.0,46.23
+moving,566,4749650.0,40.28
+renewable_energy,60,723375.0,36.67
+debt_consolidation,47878,767320525.0,35.18
+medical,1035,9815425.0,34.88
+other,5124,54933575.0,34.29
+major_purchase,1822,24478150.0,32.71
+house,528,8375750.0,31.63
+home_improvement,5420,81565200.0,30.85
+credit_card,18360,281748700.0,28.79
+wedding,88,1000350.0,28.41
+vacation,568,3819150.0,28.35
+car,867,8221975.0,27.91
